@@ -1,0 +1,5 @@
+What is the capital of France?|Paris|London|Berlin|Madrid|1
+Which language is used to style web pages?|Python|HTML|CSS|Java|3
+What does CPU stand for?|Central Processing Unit|Computer Personal Unit|Central Program Utility|Control Processing User|1
+Which data type stores True or False?|String|Boolean|Integer|Float|2
+What keyword is used to define a function in Python?|function|define|def|func|3
